@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Chandrapalsingh12/Chandrapalsingh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I am Chandrapal Singh Chouhan.
+💻 I'm Computer Science Undergraduate.</b><br>
+✨ I'm Good At <b>Bugs Fixing</b> And <b>Problem Solving</b>.<br>
+📫 You Can Contact Me Here, cscssingh123@gmail.com<br>
+👯 Actively Looking To Colaborate.<br>
+😄 Happy To Help You With Tech Stuffs.<br>
+<a href="https://github.com/Chandrapalsingh12">⚡ Portfolio</a>
+<br><br>
+<a href="https://github.com/Chandrapalsingh12?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshudhere64&&show_icons=true&title_color=0F1A20&icon_color=0F1A20&text_color=0F1A20&bg_color=87F6FF&show_icons=true&theme=dracula&line_height=27" alt="Chandrapal github stats"/>
+</a>
+<br><br>
