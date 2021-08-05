@@ -7,6 +7,6 @@
 <a href="https://github.com/Chandrapalsingh12">⚡ Portfolio</a>
 <br><br>
 <a href="https://github.com/Chandrapalsingh12?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshudhere64&&show_icons=true&title_color=0F1A20&icon_color=0F1A20&text_color=0F1A20&bg_color=87F6FF&show_icons=true&theme=dracula&line_height=27" alt="Chandrapal github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandrapalsingh12&&show_icons=true&title_color=0F1A20&icon_color=0F1A20&text_color=0F1A20&bg_color=87F6FF&show_icons=true&theme=dracula&line_height=27" alt="Chandrapal github stats"/>
 </a>
 <br><br>
