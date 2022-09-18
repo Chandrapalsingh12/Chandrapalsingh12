@@ -12,4 +12,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandrapalsingh12&&show_icons=true&title_color=0F1A30&icon_color=0F1A20&text_color=0F1A20&bg_color=cca3ff&show_icons=true&theme=dracula&line_height=27%22%20alt=%22Chandrapal%20github%20stats"/>
 </a>
 <br><br>
-<img src="https://drive.google.com/file/d/1FfNoGdnysnj9ajWtfSd0OI__Y8CkEwj4/view?usp=sharing"/>
+<img src="https://user-images.githubusercontent.com/74819484/190921435-7587a89c-0606-436e-9d57-70e916be9306.jpg"/>
