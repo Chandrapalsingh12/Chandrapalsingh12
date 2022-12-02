@@ -4,7 +4,7 @@
 📫 You Can Contact Me Here, cscssingh123@gmail.com<br>
 👯 Actively Looking To Colaborate.<br>
 😄 Happy To Help You With Tech Stuffs.<br>
-<a href="https://github.com/Chandrapalsingh12">⚡ Portfolio</a>
+<a href="https://chandrapalsingh.netlify.app">⚡ Portfolio</a>
 <br>
 <a href="https://chandrapalsingh12.github.io/chandrapalsingh/" target="_blank" >⚡My Portfolio Website</a>
 <br>
