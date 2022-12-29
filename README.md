@@ -6,7 +6,7 @@
 😄 Happy To Help You With Tech Stuffs.<br>
 <a href="https://chandrapalsingh.netlify.app">⚡ Portfolio</a>
 <br>
-<a href="https://chandrapalsingh12.github.io/chandrapalsingh/" target="_blank" >⚡My Portfolio Website</a>
+<!-- <a href="https://chandrapalsingh12.github.io/chandrapalsingh/" target="_blank" >⚡My Portfolio Website</a> -->
 <br>
 <a href="https://user-images.githubusercontent.com/74819484/190921435-7587a89c-0606-436e-9d57-70e916be9306.jpg" target="_blank" >😎 My Data Science Certificate</a>
 <br><br>
