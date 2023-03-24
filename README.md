@@ -1,8 +1,21 @@
-# Hi, I am Chandrapal Singh Chouhan.
-💻 I'm Computer Science Undergraduate.</b><br>
-✨ I'm Good At <b>Bugs Fixing</b> And <b>Problem Solving</b>.<br>
-📫 You Can Contact Me Here, cscssingh123@gmail.com<br>
-👯 Actively Looking To Colaborate.<br>
+# About Me
+
+Hi there, I'm a graduate computer science student with a passion for problem-solving and bug fixing. I am constantly seeking new opportunities to collaborate with other professionals in the tech industry.
+
+## Skills
+
+- Problem-solving
+- Bug fixing
+- Programming Skills: Data Scientist, Web Developer, Native App Developer
+- Programming languages: Python, C++, HTML, CSS, JavaScript
+
+## Contact Me
+
+You can reach out to me via email at cscssingh123@gmail.com. I am always happy to help with any technical issues you may be experiencing.
+
+## Collaboration
+
+As mentioned earlier, I am actively seeking opportunities to collaborate with other professionals in the tech industry. If you have any projects that you think I would be a good fit for, please don't hesitate to reach out.
 😄 Happy To Help You With Tech Stuffs.<br>
 <a href="https://chandrapalsingh.netlify.app">⚡ Portfolio</a>
 <br>
