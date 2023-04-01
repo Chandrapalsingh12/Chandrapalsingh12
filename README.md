@@ -7,7 +7,7 @@ Hi there, I'm a graduate computer science student with a passion for problem-sol
 - Problem-solving
 - Bug fixing
 - Programming Skills: Data Scientist, Web Developer, Native App Developer
-- Programming languages: Python, C++, HTML, CSS, JavaScript
+- Programming languages: Python,Java, C++, HTML, CSS, JavaScript,React
 
 ## Contact Me
 
