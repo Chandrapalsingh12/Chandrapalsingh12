@@ -1,6 +1,9 @@
 # About Me
 
 Hi there, I'm a graduate computer science student with a passion for problem-solving and bug fixing. I am constantly seeking new opportunities to collaborate with other professionals in the tech industry.
+<br><br>
+<br><br>
+
 <a href="https://github.com/Chandrapalsingh12?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandrapalsingh12&&show_icons=true&title_color=0F1A30&icon_color=0F1A20&text_color=0F1A20&bg_color=cca3ff&show_icons=true&theme=dracula&line_height=27%22%20alt=%22Chandrapal%20github%20stats"/>
 </a>
